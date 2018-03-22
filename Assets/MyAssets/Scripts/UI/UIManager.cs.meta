@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: caf01663a321ea44a86f963553bc7767
+timeCreated: 1445113759
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - startingAnim: {fileID: 7400000, guid: 80c1eee10eb9d6449abab461dc42130a, type: 2}
+  - startingScreenAnimator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

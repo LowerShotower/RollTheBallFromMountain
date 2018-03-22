@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 61b6e825f3477e644994abd036519131
+timeCreated: 1443333501
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PH Things_0
+    21300002: PH Things_1
+    21300004: PH Things_2
+    21300006: PH Things_3
+    21300008: PH Things_4
+    21300010: PH Things_5
+    21300012: PH Things_6
+    21300014: PH Things_7
+    21300016: PH Things_8
+    21300018: PH Things_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PH Things_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 199
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PH Things_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 440
+        width: 199
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PH Things_2
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 440
+        width: 199
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PH Things_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 57
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PH Things_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 214
+        width: 57
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PH Things_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 215
+        width: 65
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PH Things_6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 215
+        width: 57
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PH Things_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 215
+        width: 57
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PH Things_8
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 214
+        width: 57
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PH Things_9
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 215
+        width: 57
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
